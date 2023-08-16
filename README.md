@@ -1,5 +1,4 @@
 # Equal Weight S&P500 Index Fund Generator
-****Created By**:** Utsha K. Saha <br />
 **Purpose:** This project uses the IEX Cloud API to receive the real-time market prices of the S&P500 stocks. Then constructs an equal-weight S&P500 portfolio with the portfolio value inputted by the user. 
 <br />
 <br />
