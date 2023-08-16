@@ -13,5 +13,10 @@ This project uses the Python module 'pandas' in version 1.4.4 as newer versions 
 All other libraries can be up-to-date.<br />
 <br />
 **Sample Pandas Dataframe (as of Aug 16, 2023):**
-
+![pandasSCN](https://github.com/SAHAUTSHA/Equal-Weight-SP500-Index-Fund-Generator/assets/83483386/b2d09f9b-4581-4222-9be6-427eef2a0513)
 <br />
+****Sample CSV File Output:****
+![CSVsampleOutput](https://github.com/SAHAUTSHA/Equal-Weight-SP500-Index-Fund-Generator/assets/83483386/42a99c5c-945b-41b8-9509-c34bdeb7a559)
+
+
+
